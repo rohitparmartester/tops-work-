@@ -1,0 +1,53 @@
+---Module 1
+
+           SDLC - Software + Development + Life Cycle
+           Software --- fb ,WhatsApp , gstore,map
+                            benefits
+                                    communicate, share
+                                    life easy
+                                Set of programs that have some specific purpose
+                       develop - phares/stages/steps/cycle
+ Software development is not only doing single task but it
+includes set of phares/task
+
+
+* 6 phares 
+
+    
+ Roles and Responsibility 
+	
+        - BDE
+	- BA
+	- QA/QA Engineer
+	- SEO
+	- Designer 
+	- Manual Tester
+	- Full Stack Developer
+	- Python/PHP/mobile Developer
+	- MERN Stack
+	- Database developer
+	- Data scientist
+	- Data Anayalitcs 
+	- Network engineer
+	- Networking
+	- SE
+
+
+
+SRS - System Requirement Specification 
+Document  
+	Project Description 
+	Module Description  
+	Scope/Features
+	out of scope
+	Requirements -Functional & Non - Functional 
+		Functional - features/functionality of application EG. WhatsApp (chat, share, status. calling ,payment)
+		non functional  - apart from functionality e.g. WhatsApp (time to taking to load,  easy to use , response time, no of user handle at a time ,compatible Performance ,load ,security ,stress ,compatibility )
+
+	Tools and Technology used 
+		Front end
+		back end
+		database 
+		Network
+		
+Lab task : google - SRS document of E-commerce ,social media
